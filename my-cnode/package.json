@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.18.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "customize-cra": "^0.2.12",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
